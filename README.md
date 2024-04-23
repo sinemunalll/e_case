@@ -7,3 +7,5 @@ Uygulama Laravel kullanılarak geliştirilmiştir.
 Komutu çalıştırmak için terminal veya komut istemcisini açın.
 ```php artisan exchange-rates:fetch```
 Bu komut, tüm döviz kuru sağlayıcılarından verileri çekecek ve veritabanına kaydedecektir.
+
+Postman : https://documenter.getpostman.com/view/5628689/2sA3BrWpST
